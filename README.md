@@ -15,8 +15,8 @@ In the command line interface, run 'npm start', then go to http://localhost:3001
 ## License:
 - MIT, ISC
 
-## GitHub link:
-[My GitHub link](https://thuytttn.github.io/note-taker/)
+## Link to application:
+[Note-taker application](https://peaceful-sierra-28041.herokuapp.com)
 
 ## Screenshot of application
 ![screencapture-localhost-3001-notes-2022-05-07-11_31_50](https://user-images.githubusercontent.com/92459709/167261319-71dfe3f3-3e9a-4da5-88a3-d2792b44455b.png)
