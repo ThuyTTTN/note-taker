@@ -9,7 +9,7 @@ const htmlRoutes = require('./routes/htmlRoutes');
 const PORT = process.env.PORT || 3001;
 const app = express();
 
-//Important Order:  1. express.json, 2. express.urlencoded, 3. express.static('public'), 3. routes, 4. listen
+//Important Order:  1. express.json, 2. express.urlencoded, 3. express.static('public'), 4. routes, 5. listen
 //express.json()
 app.use(express.json());
 
